@@ -5,6 +5,7 @@ Para ello se ha utilizado el protocolo MIDI, arduino y Raspberry.
 
 
 Some inf:
+- https://www.youtube.com/watch?v=AYx55nj5vSo&t=28s
 - https://geekytheory.com/arduinomidi-tu-propio-piano
 - https://forum.arduino.cc/index.php?topic=437959.0
 - https://forum.arduino.cc/index.php?topic=490074.0
